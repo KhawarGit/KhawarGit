@@ -35,9 +35,9 @@ My expertise encompasses a range of backend technologies, including server frame
 [![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhawarGit&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhawarGit&show_icons=true&count_private=true&theme=dracula)
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhawarGit&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhawarGit&layout=compact&theme=dracula)
 
 ## GitHub Activity
 [![Khawar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KhawarGit&theme=dracula)](https://github.com/KhawarGit/github-readme-activity-graph)
