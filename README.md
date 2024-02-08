@@ -34,6 +34,12 @@ My expertise encompasses a range of backend technologies, including server frame
 [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhawarGit&show_icons=true&count_private=true)
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhawarGit&layout=compact)
+
+
 <!--
 **KhawarGit/KhawarGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
