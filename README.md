@@ -39,7 +39,8 @@ My expertise encompasses a range of backend technologies, including server frame
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhawarGit&layout=compact)
 
-
+## GitHub Activity
+[![Khawar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KhawarGit&theme=dracula)](https://github.com/KhawarGit/github-readme-activity-graph)
 
 <!--
 **KhawarGit/KhawarGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
