@@ -16,6 +16,23 @@ My expertise encompasses a range of backend technologies, including server frame
 </ul>
 
 ## Technologies
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com/)
+[![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![PHP](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Django](https://img.shields.io/badge/-Django-darkgreen?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Figma](https://img.shields.io/badge/-Figma-purple?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
+[![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 
 <!--
 **KhawarGit/KhawarGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
