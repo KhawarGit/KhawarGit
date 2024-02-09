@@ -23,6 +23,7 @@ My expertise encompasses a range of backend technologies, including server frame
 [![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![PHP](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![SQLite](https://img.shields.io/badge/-SQLite-blue?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Django](https://img.shields.io/badge/-Django-darkgreen?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
