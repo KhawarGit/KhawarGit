@@ -12,7 +12,7 @@ My expertise encompasses a range of backend technologies, including server frame
 <ul>
   <li>🌱 I’m currently learning <strong>Django and Postgresql</strong></li>
   <li>👯 I’m looking to collaborate on Backend Projects</li>
-  <li>📫 How to reach me ma3533899@gmail.com</li>
+  <li>📫 How to reach me triplek2003931974@gmail.com</li>
 </ul>
 
 ## Technologies
