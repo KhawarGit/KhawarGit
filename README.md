@@ -13,6 +13,8 @@ My expertise encompasses a range of backend technologies, including server frame
   <li>🌱 I’m currently learning <strong>Django and Postgresql</strong></li>
   <li>👯 I’m looking to collaborate on Backend Projects</li>
   <li>📫 How to reach me triplek2003931974@gmail.com</li>
+  <li>🔗 Connect with me through https://www.linkedin.com/in/khawar-khan</li>
+
 </ul>
 
 ## Technologies
