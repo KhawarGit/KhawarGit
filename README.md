@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  <strong>An Inquisite Software Enginner(NED'25) from Pakistan</strong>
+  <strong>An Inquisite Software Engineer(NED'25) from Pakistan</strong>
 </h3>
 <br/>
 Welcome to my GitHub repository! 👋 I'm a passionate software engineer currently learning backend development. With a keen eye for crafting efficient, scalable, and secure solutions, I leverage my skills to build the backbone of dynamic web applications.
