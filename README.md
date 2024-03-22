@@ -14,6 +14,8 @@ My expertise encompasses a range of backend technologies, including server frame
   <li>👯 I’m looking to collaborate on <strong>Backend</strong> Projects</li>
   <li>📫 How to reach me triplek2003931974@gmail.com</li>
   <li>🔗 Connect with me through https://www.linkedin.com/in/khawar-khan</li>
+  <li>Hackerrank : https://www.hackerrank.com/profile/ma3533899</li>
+  <li>LeetCode : https://leetcode.com/triplek2003931974/</li>
 
 </ul>
 
