@@ -10,7 +10,7 @@ Welcome to my GitHub repository! 👋 I'm a passionate software engineer current
 
 My expertise encompasses a range of backend technologies, including server frameworks like Node.js, Express.js, Django, and databases such as MySQL, MongoDB. I thrive on designing robust server logic that ensures smooth data flow and functionality, contributing to a seamless user experience.
 <ul>
-  <li>🌱 I’m currently learning <strong>Django(REST framework) and Postgresql</strong></li>
+<!--   <li>🌱 I’m currently learning <strong>Django(REST framework) and Postgresql</strong></li> -->
   <li>👯 I’m looking to collaborate on <strong>Backend</strong> Projects</li>
   <li>📫 How to reach me triplek2003931974@gmail.com</li>
   <li>🔗 Connect with me through https://www.linkedin.com/in/khawar-khan</li>
